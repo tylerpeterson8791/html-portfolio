@@ -17,6 +17,8 @@
   
   ## Usage
 
+  Here is the link to the deployed page [Deployed Page](https://tylerpeterson8791.github.io/html-portfolio/)
+  
   Here is a link to my github repository: [GitHub Repo](https://github.com/tylerpeterson8791/html-portfolio)
   
   The user begins at the homepage with a picture of me and a brief history of my other work.  Everything is in one page and the user can navigate sections by clicking on the links on the nav bar.
